@@ -22,7 +22,6 @@ list:
   - ты дебил
   - ты глупый
   - ты тупой
-
 - command:
     action: voice
   voice:
@@ -87,3 +86,10 @@ list:
   - смешной анекдот
   - это было весело
   - интересная шутка
+-command:
+   action: voice
+ voice:
+   sound :
+   - open browsers
+ phrases :
+ - открой браузеры 
